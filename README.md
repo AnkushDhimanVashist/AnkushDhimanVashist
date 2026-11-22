@@ -22,7 +22,7 @@ I'm a **Senior React Native Developer** and **Team Lead** (leading 5 junior deve
 - 🌐 Working knowledge of Node.js, Express, MongoDB, React and Next.js
 - 🤖 Shipping faster with Claude Code, Codex and LLM APIs
 - 🔭 Working on **[create-node-api-kit](https://github.com/AnkushDhimanVashist/create-node-api-kit)** — a production-ready Node.js REST API in one command
-- 📚 Building **[Vinod Vocab Vault AI](https://vinod-vocab-vault.web.app)** — an AI-powered vocabulary builder
+- 📚 Building **[Vinod Vocab Vault AI](https://vinod-vocab-vault.web.app)** — AI vocabulary app with English & Hindi meanings: [Chrome extension](https://chromewebstore.google.com/detail/vinod-vocab-vault-ai-%E2%80%94-en/iindhnplhnejmkkemeamcfjcinadpjjk), web and Android
 - 🌱 Exploring native modules, animations and developer experience
 - 💬 Ask me about React Native, Redux Toolkit, Express and API design
 
@@ -62,7 +62,7 @@ npx create-node-api-kit@latest my-api
 
 | Project | Stack |
 | --- | --- |
-| [Vinod Vocab Vault AI](https://vinod-vocab-vault.web.app) | AI-powered vocabulary web app |
+| [Vinod Vocab Vault AI](https://chromewebstore.google.com/detail/vinod-vocab-vault-ai-%E2%80%94-en/iindhnplhnejmkkemeamcfjcinadpjjk) · [web](https://vinod-vocab-vault.web.app) | Chrome extension: double-click any word on a page or PDF for English & Hindi meanings, save it, review with spaced repetition |
 | [screenRecorderReactNative](https://github.com/AnkushDhimanVashist/screenRecorderReactNative) | React Native screen recorder with native Android code |
 | [animateWorld](https://github.com/AnkushDhimanVashist/animateWorld) | Animations and gestures in React Native |
 | [react-native-redux-toolkit](https://github.com/AnkushDhimanVashist/react-native-redux-toolkit) | Reference for Redux Toolkit in React Native |

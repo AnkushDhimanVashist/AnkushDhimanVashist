@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ankush 👋</h1>
-<h3 align="center">Senior React Native Developer &amp; Team Lead · 4.5+ years shipping Android &amp; iOS apps · Node.js tooling</h3>
+<h3 align="center">Senior React Native Developer &amp; Team Lead · 4.9 years shipping Android &amp; iOS apps · Node.js tooling</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=C6F24E&center=true&vCenter=true&width=520&lines=Senior+React+Native+Developer;Team+Lead+%C2%B7+5+developers;Node.js+API+builder;Creator+of+create-node-api-kit;Always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -15,10 +15,12 @@
 
 ---
 
-I'm a **Senior React Native Developer** and **Team Lead** (leading 5 junior developers) with **4.5+ years** of experience building apps that are live on the App Store and Google Play: dating, social music streaming, influencer platforms, e-commerce and ride booking. I specialise in real-time features (Socket.io, Firestore), payments and subscriptions (Stripe, Razorpay, RevenueCat), background location and native modules.
+I'm a **Senior React Native Developer** and **Team Lead** (leading 5 junior developers) with **4.9 years** of experience building apps that are live on the App Store and Google Play: dating, social music streaming, influencer platforms, e-commerce and ride booking. I specialise in real-time features (Socket.io, Firestore), payments and subscriptions (Stripe, Razorpay, RevenueCat), background location and native modules.
 
 - 💼 Senior React Native Developer & Team Lead at **iTechnolabs** (Mohali), leading a team of 5
 
+- 🌐 Working knowledge of Node.js, Express, MongoDB, React and Next.js
+- 🤖 Shipping faster with Claude Code, Codex and LLM APIs
 - 🔭 Working on **[create-node-api-kit](https://github.com/AnkushDhimanVashist/create-node-api-kit)** — a production-ready Node.js REST API in one command
 - 📚 Building **[Vinod Vocab Vault AI](https://vinod-vocab-vault.web.app)** — an AI-powered vocabulary builder
 - 🌱 Exploring native modules, animations and developer experience

@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://ankushdhimanvashist.github.io"><img src="https://img.shields.io/badge/Portfolio-0b0d10?style=flat&logo=googlechrome&logoColor=C6F24E" alt="Portfolio" /></a>
   <a href="https://www.npmjs.com/package/create-node-api-kit"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" /></a>
-  <!-- TODO: uncomment and add your links
-  <a href="https://www.linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ankush-dhiman-0367931a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- TODO: uncomment and add your email
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   -->
 </p>

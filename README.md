@@ -47,11 +47,11 @@ npx create-node-api-kit@latest my-api
 | App | What I built |
 | --- | --- |
 | [Choona](https://apps.apple.com/in/app/choona/id6745026919) | Social music streaming with Apple Music & Spotify, real-time shared listening |
-| Second Chance | Global dating app with Socket.io chat and background location |
+| [Second Chance](https://play.google.com/store/apps/details?id=com.secondchance.secondchance) | Global dating app with Socket.io chat and background location |
 | [Reserve ARC](https://apps.apple.com/us/app/reserve-a-r-c/id6746159537) | Driver & customer ride booking with live GPS tracking |
 | [CFA Society India](https://apps.apple.com/in/app/cfa-society-india/id1617753334) | Member app with Firestore chat, push and Firebase auth |
 | Blippi | Influencer platform with group chat, Razorpay and RevenueCat |
-| Jobr Market | B2C services marketplace with Stripe, BNPL and order tracking |
+| [Jobr Market](https://play.google.com/store/apps/details?id=com.jobrllc.jobrdelivery) | B2C services marketplace with Stripe, BNPL and order tracking |
 
 ## 🛠 Side projects
 

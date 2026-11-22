@@ -48,6 +48,7 @@ npx create-node-api-kit@latest my-api
 | --- | --- |
 | [Choona](https://apps.apple.com/in/app/choona/id6745026919) | Social music streaming with Apple Music & Spotify, real-time shared listening |
 | [Second Chance](https://play.google.com/store/apps/details?id=com.secondchance.secondchance) | Global dating app with Socket.io chat and background location |
+| [UMSV Dolphin Shuttle](https://apps.apple.com/us/app/umsv-dolphin-shuttle/id6759616674) · [Android](https://play.google.com/store/apps/details?id=com.es11.campusbustracker) | Live campus shuttle tracking with ETAs and arrival notifications |
 | [Reserve ARC](https://apps.apple.com/us/app/reserve-a-r-c/id6746159537) | Driver & customer ride booking with live GPS tracking |
 | [CFA Society India](https://apps.apple.com/in/app/cfa-society-india/id1617753334) | Member app with Firestore chat, push and Firebase auth |
 | Blippi | Influencer platform with group chat, Razorpay and RevenueCat |

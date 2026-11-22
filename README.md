@@ -52,6 +52,8 @@ npx create-node-api-kit@latest my-api
 | [CFA Society India](https://apps.apple.com/in/app/cfa-society-india/id1617753334) | Member app with Firestore chat, push and Firebase auth |
 | Blippi | Influencer platform with group chat, Razorpay and RevenueCat |
 | [Jobr Market](https://play.google.com/store/apps/details?id=com.jobrllc.jobrdelivery) | B2C services marketplace with Stripe, BNPL and order tracking |
+| [Book Any Van](https://play.google.com/store/apps/details?id=com.bookanyvan) | Van booking for moving and deliveries with instant quotes |
+| [My Healing Plan (TPHC)](https://play.google.com/store/apps/details?id=com.tphc) | Patient & wellness-coach app with personalised healing plans |
 
 ## 🛠 Side projects
 
